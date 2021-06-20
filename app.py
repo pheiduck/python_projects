@@ -1,3 +1,5 @@
+from math import *
+
 print("Giraffe Academy")
 print("Giraffe\nAcademy")
 print("Giraffe\"Academy")
@@ -23,3 +25,7 @@ print(str(my_num) + " my faorite number")
 print(abs(my_num))
 print(pow(4, 2))
 print(max(4, 2))
+print(min(4, 2))
+print(round(3.7))
+print(floor(3.7))
+print(sqrt(36))
